@@ -37,7 +37,7 @@
       <div class="container hero-grid">
         <div class="hero-copy reveal">
           <div class="status-pill"><span></span> Disponible pour de nouveaux projets</div>
-          <p class="eyebrow">Développeur Web Full Stack • Maroc</p>
+          <p class="eyebrow">Développeur Web Full Stack • Azemmour, Maroc</p>
           <h1>Je transforme vos idées en <span class="gradient-text">sites web qui vendent.</span></h1>
           <p class="hero-lead">Sites vitrines modernes, plateformes de réservation et boutiques e-commerce rapides, responsives et faciles à gérer.</p>
           <div class="hero-actions">
@@ -90,9 +90,11 @@
 
         <div class="project-grid">
           <article class="project-card reveal">
-            <a class="project-media restaurant" href="projects/restaurant.html" aria-label="Voir le projet Restaurant Pro">
-              <img src="assets/images/restaurant-preview.svg" alt="Aperçu du site Restaurant Pro">
-              <span class="project-number">01</span>
+            <a class="project-media project-collage restaurant" href="projects/restaurant.html" aria-label="Voir le projet Restaurant Pro">
+              <img class="collage-main" src="assets/images/projects/restaurant/01-accueil.svg" alt="Accueil Restaurant Pro">
+              <img class="collage-small top" src="assets/images/projects/restaurant/02-menu.svg" alt="Deuxième écran Restaurant Pro">
+              <img class="collage-small bottom" src="assets/images/projects/restaurant/04-galerie.svg" alt="Dashboard ou galerie Restaurant Pro">
+              <span class="screens-badge">4 écrans</span><span class="project-number">01</span>
             </a>
             <div class="project-body">
               <div class="project-meta"><span>Site vitrine</span><span>Restaurant</span></div>
@@ -104,9 +106,11 @@
           </article>
 
           <article class="project-card reveal delay-1">
-            <a class="project-media medcare" href="projects/medcare.html" aria-label="Voir le projet MedCare Clinic">
-              <img src="assets/images/medcare-preview.svg" alt="Aperçu de MedCare Clinic">
-              <span class="project-number">02</span>
+            <a class="project-media project-collage medcare" href="projects/medcare.html" aria-label="Voir le projet MedCare Clinic">
+              <img class="collage-main" src="assets/images/projects/medcare/01-accueil.svg" alt="Accueil MedCare Clinic">
+              <img class="collage-small top" src="assets/images/projects/medcare/02-medecins.svg" alt="Deuxième écran MedCare Clinic">
+              <img class="collage-small bottom" src="assets/images/projects/medcare/04-dashboard.svg" alt="Dashboard ou galerie MedCare Clinic">
+              <span class="screens-badge">4 écrans</span><span class="project-number">02</span>
             </a>
             <div class="project-body">
               <div class="project-meta"><span>Application web</span><span>Santé</span></div>
@@ -118,9 +122,11 @@
           </article>
 
           <article class="project-card reveal delay-2">
-            <a class="project-media techstore" href="projects/techstore.html" aria-label="Voir le projet TechStore">
-              <img src="assets/images/techstore-preview.svg" alt="Aperçu de TechStore E-commerce">
-              <span class="project-number">03</span>
+            <a class="project-media project-collage techstore" href="projects/techstore.html" aria-label="Voir le projet TechStore">
+              <img class="collage-main" src="assets/images/projects/techstore/01-accueil.svg" alt="Accueil TechStore">
+              <img class="collage-small top" src="assets/images/projects/techstore/02-catalogue.svg" alt="Deuxième écran TechStore">
+              <img class="collage-small bottom" src="assets/images/projects/techstore/04-dashboard.svg" alt="Dashboard ou galerie TechStore">
+              <span class="screens-badge">4 écrans</span><span class="project-number">03</span>
             </a>
             <div class="project-body">
               <div class="project-meta"><span>E-commerce</span><span>Tech</span></div>
@@ -160,7 +166,7 @@
         <div class="about-copy reveal delay-1">
           <p class="eyebrow">À propos</p>
           <h2>Un développeur concentré sur le résultat.</h2>
-          <p>Je suis Ismail Jaroui, développeur web full stack basé au Maroc. Je construis des interfaces propres et des applications utiles avec Django, Python et JavaScript.</p>
+          <p>Je suis Ismail Jaroui, développeur web full stack basé à Azemmour, Maroc. Je construis des interfaces propres et des applications utiles avec Django, Python et JavaScript.</p>
           <p>Mon objectif est simple : livrer un site rapide, professionnel et facile à utiliser, qui aide réellement le client à développer son activité.</p>
           <div class="skill-list">
             <div><span>Frontend</span><strong>HTML, CSS, JavaScript</strong></div>
@@ -191,6 +197,11 @@
           <h2>Besoin d’un site web professionnel ?</h2>
           <p>Décrivez votre besoin. Un message prêt à envoyer sera généré automatiquement.</p>
           <div class="contact-points"><span>✓ Devis clair</span><span>✓ Prix adapté</span><span>✓ Suivi du projet</span></div>
+          <div class="direct-contact">
+            <a href="https://wa.me/212691712757" target="_blank" rel="noopener"><strong>WhatsApp</strong><span>+212 691 712 757</span></a>
+            <a href="mailto:ismailjaroui777@gmail.com"><strong>Email</strong><span>ismailjaroui777@gmail.com</span></a>
+            <div><strong>Localisation</strong><span>Azemmour, Maroc</span></div>
+          </div>
         </div>
         <form class="contact-form" id="contactForm">
           <div class="form-row">
@@ -203,7 +214,7 @@
             <button class="btn btn-primary" type="submit">Préparer le message <span>↗</span></button>
             <button class="btn btn-secondary hidden" type="button" id="copyMessage">Copier le message</button>
           </div>
-          <p class="form-note" id="formNote">Configurez votre WhatsApp ou email dans <code>assets/js/config.js</code>.</p>
+          <p class="form-note" id="formNote">Le formulaire ouvrira directement WhatsApp avec votre demande prête à envoyer.</p>
         </form>
       </div>
     </section>
@@ -215,7 +226,7 @@
       <div class="footer-links"><a href="#projets">Projets</a><a href="#services">Services</a><a href="#apropos">À propos</a><a href="#contact">Contact</a></div>
       <div class="social-links" id="socialLinks"></div>
     </div>
-    <div class="container footer-bottom"><span>© <span id="year"></span> Ismail Jaroui.</span><span>Conçu avec attention au Maroc.</span></div>
+    <div class="container footer-bottom"><span>© <span id="year"></span> Ismail Jaroui.</span><span>Basé à Azemmour, Maroc.</span></div>
   </footer>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>

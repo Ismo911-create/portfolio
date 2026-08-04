@@ -9,6 +9,7 @@
   const themeToggle = $('.theme-toggle');
   const toast = $('#toast');
   const copyButton = $('#copyMessage');
+  const formNote = $('#formNote');
   let preparedMessage = '';
 
   const showToast = (message) => {
@@ -55,6 +56,7 @@
     socials.appendChild(a);
   });
   if (!socialItems.length) socials.innerHTML = '<span style="color:var(--muted);font-size:.8rem">Coordonnées à configurer</span>';
+  if (formNote && config.whatsapp) formNote.textContent = 'Votre demande sera ouverte directement dans WhatsApp.';
 
   $('#contactForm')?.addEventListener('submit', (event) => {
     event.preventDefault();

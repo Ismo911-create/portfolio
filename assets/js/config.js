@@ -1,11 +1,7 @@
-/*
-  PERSONNALISATION RAPIDE
-  Remplacez les valeurs vides ci-dessous.
-  WhatsApp: indicatif pays + numéro, sans + ni espaces. Exemple Maroc: 212612345678
-*/
+/* Coordonnées professionnelles */
 window.PORTFOLIO_CONFIG = {
-  email: "",
-  whatsapp: "",
-  github: "",
+  email: "ismailjaroui777@gmail.com",
+  whatsapp: "212691712757",
+  github: "https://github.com/Ismo911-create",
   linkedin: ""
 };
