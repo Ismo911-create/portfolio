@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<defs>
+ <linearGradient id="pagebg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10172b"/><stop offset="1" stop-color="#0d1322"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c5cff"/><stop offset="1" stop-color="#36d1dc"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1200" height="750" fill="url(#pagebg)"/>
+<circle cx="1060" cy="110" r="230" fill="#7c5cff" opacity=".11"/>
+<rect x="48" y="42" width="1104" height="666" rx="28" fill="#0d1322" stroke="#ffffff22" filter="url(#shadow)"/>
+<rect x="48" y="42" width="1104" height="62" rx="28" fill="#ffffff0b"/>
+<circle cx="84" cy="73" r="8" fill="#ff6b62"/><circle cx="112" cy="73" r="8" fill="#ffc95c"/><circle cx="140" cy="73" r="8" fill="#62d389"/>
+<rect x="236" y="59" width="650" height="29" rx="14" fill="#ffffff0c"/><text x="561" y="79" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff88">techstore.ma</text>
+
+<text x="92" y="154" font-family="Arial" font-size="27" font-weight="900" fill="white">TECH<tspan fill="#7c5cff">STORE</tspan></text><rect x="745" y="132" width="305" height="44" rx="13" fill="#182139"/><text x="770" y="160" font-family="Arial" font-size="14" fill="#8996ad">Rechercher un produit...</text><text x="92" y="252" font-family="Arial" font-size="58" font-weight="900" fill="white">La technologie</text><text x="92" y="315" font-family="Arial" font-size="58" font-weight="900" fill="#7c5cff">à portée de clic.</text><text x="92" y="361" font-family="Arial" font-size="18" fill="#8996ad">Ordinateurs, smartphones et accessoires au meilleur prix.</text><rect x="92" y="406" width="190" height="54" rx="15" fill="#7c5cff"/><text x="187" y="440" text-anchor="middle" font-family="Arial" font-size="15" font-weight="800" fill="white">VOIR LES PRODUITS</text>
+<rect x="740" y="220" width="182" height="352" rx="28" fill="#1a2440" transform="rotate(-8 831 396)"/><rect x="759" y="244" width="144" height="301" rx="20" fill="#7c5cff" transform="rotate(-8 831 396)"/><circle cx="774" cy="260" r="13" fill="#0e1424"/>
+<g font-family="Arial"><rect x="92" y="535" width="190" height="78" rx="17" fill="#171f35"/><text x="117" y="567" font-size="13" fill="#8996ad">Livraison</text><text x="117" y="590" font-size="15" font-weight="800" fill="white">Partout au Maroc</text><rect x="302" y="535" width="190" height="78" rx="17" fill="#171f35"/><text x="327" y="567" font-size="13" fill="#8996ad">Paiement</text><text x="327" y="590" font-size="15" font-weight="800" fill="white">À la livraison</text><rect x="512" y="535" width="190" height="78" rx="17" fill="#171f35"/><text x="537" y="567" font-size="13" fill="#8996ad">Support</text><text x="537" y="590" font-size="15" font-weight="800" fill="white">7j / 7</text></g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<defs>
+ <linearGradient id="pagebg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b110d"/><stop offset="1" stop-color="#100d0b"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d89645"/><stop offset="1" stop-color="#36d1dc"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1200" height="750" fill="url(#pagebg)"/>
+<circle cx="1060" cy="110" r="230" fill="#d89645" opacity=".11"/>
+<rect x="48" y="42" width="1104" height="666" rx="28" fill="#100d0b" stroke="#ffffff22" filter="url(#shadow)"/>
+<rect x="48" y="42" width="1104" height="62" rx="28" fill="#ffffff0b"/>
+<circle cx="84" cy="73" r="8" fill="#ff6b62"/><circle cx="112" cy="73" r="8" fill="#ffc95c"/><circle cx="140" cy="73" r="8" fill="#62d389"/>
+<rect x="236" y="59" width="650" height="29" rx="14" fill="#ffffff0c"/><text x="561" y="79" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff88">maison-nour.ma/menu</text>
+
+<text x="92" y="154" font-family="Arial" font-size="22" font-weight="800" fill="#efc586">NOTRE MENU</text>
+<text x="92" y="205" font-family="Georgia" font-size="46" font-weight="700" fill="white">Les créations du chef</text>
+<g font-family="Arial">
+<rect x="92" y="244" width="310" height="180" rx="22" fill="#1f1713" stroke="#ffffff18"/><circle cx="170" cy="326" r="56" fill="#e8c28d"/><circle cx="170" cy="326" r="39" fill="#6f8d48"/><text x="244" y="292" font-size="18" font-weight="800" fill="white">Tajine signature</text><text x="244" y="323" font-size="14" fill="#a99789">Agneau, pruneaux et amandes</text><text x="244" y="377" font-size="18" font-weight="800" fill="#e5a451">120 DH</text>
+<rect x="425" y="244" width="310" height="180" rx="22" fill="#1f1713" stroke="#ffffff18"/><circle cx="503" cy="326" r="56" fill="#f1d6ac"/><circle cx="503" cy="326" r="37" fill="#a64e36"/><text x="577" y="292" font-size="18" font-weight="800" fill="white">Pastilla royale</text><text x="577" y="323" font-size="14" fill="#a99789">Poulet fermier et cannelle</text><text x="577" y="377" font-size="18" font-weight="800" fill="#e5a451">95 DH</text>
+<rect x="758" y="244" width="310" height="180" rx="22" fill="#1f1713" stroke="#ffffff18"/><circle cx="836" cy="326" r="56" fill="#d9bd89"/><circle cx="836" cy="326" r="35" fill="#4f743e"/><text x="910" y="292" font-size="18" font-weight="800" fill="white">Couscous royal</text><text x="910" y="323" font-size="14" fill="#a99789">Sept légumes et viande</text><text x="910" y="377" font-size="18" font-weight="800" fill="#e5a451">110 DH</text>
+<rect x="92" y="466" width="976" height="154" rx="22" fill="#1a1411" stroke="#ffffff15"/><text x="125" y="510" font-size="16" font-weight="800" fill="white">Entrées</text><text x="125" y="546" font-size="14" fill="#a99789">Briouates maison</text><text x="420" y="546" font-size="14" fill="#e5a451">45 DH</text><text x="125" y="580" font-size="14" fill="#a99789">Salade marocaine revisitée</text><text x="420" y="580" font-size="14" fill="#e5a451">38 DH</text><text x="570" y="510" font-size="16" font-weight="800" fill="white">Desserts</text><text x="570" y="546" font-size="14" fill="#a99789">Pastilla au lait</text><text x="900" y="546" font-size="14" fill="#e5a451">42 DH</text><text x="570" y="580" font-size="14" fill="#a99789">Orange à la cannelle</text><text x="900" y="580" font-size="14" fill="#e5a451">30 DH</text>
+</g>
+</svg>

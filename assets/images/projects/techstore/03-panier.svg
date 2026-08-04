@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<defs>
+ <linearGradient id="pagebg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10172b"/><stop offset="1" stop-color="#0d1322"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c5cff"/><stop offset="1" stop-color="#36d1dc"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1200" height="750" fill="url(#pagebg)"/>
+<circle cx="1060" cy="110" r="230" fill="#7c5cff" opacity=".11"/>
+<rect x="48" y="42" width="1104" height="666" rx="28" fill="#0d1322" stroke="#ffffff22" filter="url(#shadow)"/>
+<rect x="48" y="42" width="1104" height="62" rx="28" fill="#ffffff0b"/>
+<circle cx="84" cy="73" r="8" fill="#ff6b62"/><circle cx="112" cy="73" r="8" fill="#ffc95c"/><circle cx="140" cy="73" r="8" fill="#62d389"/>
+<rect x="236" y="59" width="650" height="29" rx="14" fill="#ffffff0c"/><text x="561" y="79" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff88">techstore.ma/panier</text>
+
+<text x="92" y="154" font-family="Arial" font-size="20" font-weight="900" fill="#7c5cff">VOTRE PANIER</text><text x="92" y="202" font-family="Arial" font-size="42" font-weight="900" fill="white">3 articles prêts à commander</text>
+<rect x="92" y="240" width="685" height="390" rx="24" fill="#151d31"/>
+<g font-family="Arial"><rect x="122" y="273" width="625" height="92" rx="16" fill="#1d2740"/><rect x="143" y="290" width="63" height="58" rx="10" fill="#293553"/><rect x="164" y="299" width="22" height="40" rx="6" fill="#7c5cff"/><text x="230" y="309" font-size="16" font-weight="800" fill="white">Galaxy S24</text><text x="230" y="337" font-size="13" fill="#8996ad">Quantité : 1</text><text x="650" y="326" text-anchor="end" font-size="17" font-weight="900" fill="#31d3da">7 999 DH</text>
+<rect x="122" y="385" width="625" height="92" rx="16" fill="#1d2740"/><rect x="143" y="402" width="63" height="58" rx="10" fill="#293553"/><rect x="153" y="420" width="43" height="25" rx="5" fill="#31d3da"/><text x="230" y="421" font-size="16" font-weight="800" fill="white">MacBook Air M3</text><text x="230" y="449" font-size="13" fill="#8996ad">Quantité : 1</text><text x="650" y="438" text-anchor="end" font-size="17" font-weight="900" fill="#31d3da">14 500 DH</text>
+<rect x="122" y="497" width="625" height="92" rx="16" fill="#1d2740"/><circle cx="174" cy="543" r="24" fill="none" stroke="#7c5cff" stroke-width="10"/><text x="230" y="533" font-size="16" font-weight="800" fill="white">Sony WH-1000XM5</text><text x="230" y="561" font-size="13" fill="#8996ad">Quantité : 1</text><text x="650" y="550" text-anchor="end" font-size="17" font-weight="900" fill="#31d3da">3 799 DH</text></g>
+<rect x="810" y="240" width="258" height="390" rx="24" fill="#171f35"/><text x="842" y="290" font-family="Arial" font-size="20" font-weight="900" fill="white">Résumé</text><text x="842" y="345" font-family="Arial" font-size="14" fill="#8996ad">Sous-total</text><text x="1036" y="345" text-anchor="end" font-family="Arial" font-size="14" fill="white">26 298 DH</text><text x="842" y="383" font-family="Arial" font-size="14" fill="#8996ad">Livraison</text><text x="1036" y="383" text-anchor="end" font-family="Arial" font-size="14" fill="#31d3da">Gratuite</text><line x1="842" y1="422" x2="1036" y2="422" stroke="#ffffff1b"/><text x="842" y="468" font-family="Arial" font-size="16" font-weight="900" fill="white">Total</text><text x="1036" y="468" text-anchor="end" font-family="Arial" font-size="20" font-weight="900" fill="#31d3da">26 298 DH</text><rect x="842" y="515" width="194" height="55" rx="14" fill="#7c5cff"/><text x="939" y="549" text-anchor="middle" font-family="Arial" font-size="14" font-weight="900" fill="white">PASSER LA COMMANDE</text>
+</svg>

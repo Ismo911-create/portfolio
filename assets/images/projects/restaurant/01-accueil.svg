@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<defs>
+ <linearGradient id="pagebg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b110d"/><stop offset="1" stop-color="#100d0b"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d89645"/><stop offset="1" stop-color="#36d1dc"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1200" height="750" fill="url(#pagebg)"/>
+<circle cx="1060" cy="110" r="230" fill="#d89645" opacity=".11"/>
+<rect x="48" y="42" width="1104" height="666" rx="28" fill="#100d0b" stroke="#ffffff22" filter="url(#shadow)"/>
+<rect x="48" y="42" width="1104" height="62" rx="28" fill="#ffffff0b"/>
+<circle cx="84" cy="73" r="8" fill="#ff6b62"/><circle cx="112" cy="73" r="8" fill="#ffc95c"/><circle cx="140" cy="73" r="8" fill="#62d389"/>
+<rect x="236" y="59" width="650" height="29" rx="14" fill="#ffffff0c"/><text x="561" y="79" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff88">maison-nour.ma</text>
+
+<text x="92" y="154" font-family="Arial" font-size="24" font-weight="800" fill="#efc586">MAISON NOUR</text>
+<text x="92" y="235" font-family="Georgia" font-size="62" font-weight="700" fill="white">Une expérience</text>
+<text x="92" y="300" font-family="Georgia" font-size="62" font-weight="700" fill="#e5a451">culinaire unique</text>
+<text x="92" y="347" font-family="Arial" font-size="18" fill="#b9a99f">Cuisine marocaine moderne • produits frais • ambiance élégante</text>
+<rect x="92" y="390" width="184" height="54" rx="15" fill="#d08a3c"/><text x="184" y="424" text-anchor="middle" font-family="Arial" font-size="15" font-weight="800" fill="white">RÉSERVER UNE TABLE</text>
+<rect x="306" y="390" width="150" height="54" rx="15" fill="none" stroke="#ffffff32"/><text x="381" y="424" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="white">VOIR LE MENU</text>
+<ellipse cx="872" cy="370" rx="220" ry="215" fill="#321f17"/><circle cx="872" cy="370" r="153" fill="#dfb16f"/><circle cx="872" cy="370" r="124" fill="#efe2d0"/>
+<circle cx="820" cy="330" r="32" fill="#8f4c31"/><circle cx="923" cy="394" r="38" fill="#57763b"/><circle cx="825" cy="427" r="25" fill="#bb4e42"/><path d="M860 280c55 22 86 58 100 105" fill="none" stroke="#e1a72e" stroke-width="18" stroke-linecap="round"/>
+<g font-family="Arial" font-size="14" fill="#cebfb4"><text x="735" y="652">Menu saisonnier</text><text x="885" y="652">Réservation rapide</text><text x="1038" y="652">Mobile friendly</text></g>
+
+</svg>

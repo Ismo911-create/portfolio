@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<defs>
+ <linearGradient id="pagebg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9f4ff"/><stop offset="1" stop-color="#f9fdff"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2678f2"/><stop offset="1" stop-color="#36d1dc"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1200" height="750" fill="url(#pagebg)"/>
+<circle cx="1060" cy="110" r="230" fill="#2678f2" opacity=".11"/>
+<rect x="48" y="42" width="1104" height="666" rx="28" fill="#f9fdff" stroke="#ffffff22" filter="url(#shadow)"/>
+<rect x="48" y="42" width="1104" height="62" rx="28" fill="#ffffff0b"/>
+<circle cx="84" cy="73" r="8" fill="#ff6b62"/><circle cx="112" cy="73" r="8" fill="#ffc95c"/><circle cx="140" cy="73" r="8" fill="#62d389"/>
+<rect x="236" y="59" width="650" height="29" rx="14" fill="#ffffff0c"/><text x="561" y="79" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff88">medcare-clinic.ma/dashboard</text>
+
+<rect x="78" y="126" width="220" height="538" rx="20" fill="#153653"/><text x="118" y="180" font-family="Arial" font-size="25" font-weight="900" fill="white">MedCare Admin</text><g font-family="Arial" font-size="15" fill="#b9d4e8"><text x="118" y="245">Vue d’ensemble</text><text x="118" y="295">Rendez-vous</text><text x="118" y="345">Médecins</text><text x="118" y="395">Spécialités</text><text x="118" y="445">Messages</text></g>
+<text x="342" y="166" font-family="Arial" font-size="31" font-weight="900" fill="#153653">Tableau de bord</text><text x="342" y="196" font-family="Arial" font-size="14" fill="#6d8398">Aperçu de l’activité de la clinique</text>
+<g font-family="Arial"><rect x="342" y="230" width="195" height="120" rx="20" fill="#fff" stroke="#2678f21f"/><text x="370" y="270" font-size="13" fill="#6d8398">Rendez-vous aujourd’hui</text><text x="370" y="320" font-size="38" font-weight="900" fill="#2678f2">12</text><rect x="558" y="230" width="195" height="120" rx="20" fill="#fff" stroke="#2678f21f"/><text x="586" y="270" font-size="13" fill="#6d8398">Patients</text><text x="586" y="320" font-size="38" font-weight="900" fill="#2bc7bd">248</text><rect x="774" y="230" width="195" height="120" rx="20" fill="#fff" stroke="#2678f21f"/><text x="802" y="270" font-size="13" fill="#6d8398">Médecins</text><text x="802" y="320" font-size="38" font-weight="900" fill="#7659e8">8</text>
+<rect x="342" y="380" width="627" height="250" rx="22" fill="#fff" stroke="#2678f21f"/><text x="372" y="420" font-size="16" font-weight="800" fill="#153653">Rendez-vous par mois</text><polyline points="382,565 455,530 528,545 601,485 674,505 747,440 820,470 895,410 940,435" fill="none" stroke="#2678f2" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><line x1="382" y1="580" x2="940" y2="580" stroke="#dbe7ef"/><line x1="382" y1="530" x2="940" y2="530" stroke="#edf3f7"/><line x1="382" y1="480" x2="940" y2="480" stroke="#edf3f7"/></g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<defs>
+ <linearGradient id="pagebg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9f4ff"/><stop offset="1" stop-color="#f9fdff"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2678f2"/><stop offset="1" stop-color="#36d1dc"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1200" height="750" fill="url(#pagebg)"/>
+<circle cx="1060" cy="110" r="230" fill="#2678f2" opacity=".11"/>
+<rect x="48" y="42" width="1104" height="666" rx="28" fill="#f9fdff" stroke="#ffffff22" filter="url(#shadow)"/>
+<rect x="48" y="42" width="1104" height="62" rx="28" fill="#ffffff0b"/>
+<circle cx="84" cy="73" r="8" fill="#ff6b62"/><circle cx="112" cy="73" r="8" fill="#ffc95c"/><circle cx="140" cy="73" r="8" fill="#62d389"/>
+<rect x="236" y="59" width="650" height="29" rx="14" fill="#ffffff0c"/><text x="561" y="79" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff88">medcare-clinic.ma/rendez-vous</text>
+
+<text x="92" y="154" font-family="Arial" font-size="22" font-weight="900" fill="#2678f2">RENDEZ-VOUS</text><text x="92" y="205" font-family="Arial" font-size="45" font-weight="900" fill="#153653">Réservez en quelques secondes</text>
+<rect x="92" y="245" width="690" height="385" rx="25" fill="#fff" stroke="#2678f21f"/>
+<g font-family="Arial"><text x="130" y="292" font-size="13" fill="#6d8398">Nom complet</text><rect x="130" y="308" width="285" height="51" rx="13" fill="#f5f9fc" stroke="#d6e5ee"/><text x="149" y="340" font-size="14" fill="#153653">Ismail Jaroui</text><text x="450" y="292" font-size="13" fill="#6d8398">Téléphone</text><rect x="450" y="308" width="285" height="51" rx="13" fill="#f5f9fc" stroke="#d6e5ee"/><text x="469" y="340" font-size="14" fill="#153653">06 00 00 00 00</text>
+<text x="130" y="393" font-size="13" fill="#6d8398">Médecin</text><rect x="130" y="409" width="285" height="51" rx="13" fill="#f5f9fc" stroke="#d6e5ee"/><text x="149" y="441" font-size="14" fill="#153653">Dr. Sara Amrani — Cardiologie</text><text x="450" y="393" font-size="13" fill="#6d8398">Date et heure</text><rect x="450" y="409" width="285" height="51" rx="13" fill="#f5f9fc" stroke="#d6e5ee"/><text x="469" y="441" font-size="14" fill="#153653">12/08/2026 • 10:30</text>
+<rect x="130" y="510" width="605" height="58" rx="15" fill="#2678f2"/><text x="432" y="546" text-anchor="middle" font-size="15" font-weight="800" fill="white">CONFIRMER LE RENDEZ-VOUS</text></g>
+<rect x="815" y="245" width="253" height="385" rx="25" fill="#eaf8ff"/><circle cx="941" cy="343" r="63" fill="#d0ecf7"/><path d="M915 344h52M941 318v52" stroke="#2bc7bd" stroke-width="12" stroke-linecap="round"/><text x="941" y="440" text-anchor="middle" font-family="Arial" font-size="18" font-weight="800" fill="#153653">Rendez-vous sécurisé</text><text x="941" y="476" text-anchor="middle" font-family="Arial" font-size="13" fill="#6d8398">Confirmation immédiate</text><text x="941" y="510" text-anchor="middle" font-family="Arial" font-size="13" fill="#6d8398">Aucun double créneau</text>
+</svg>

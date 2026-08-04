@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<defs>
+ <linearGradient id="pagebg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b110d"/><stop offset="1" stop-color="#100d0b"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d89645"/><stop offset="1" stop-color="#36d1dc"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1200" height="750" fill="url(#pagebg)"/>
+<circle cx="1060" cy="110" r="230" fill="#d89645" opacity=".11"/>
+<rect x="48" y="42" width="1104" height="666" rx="28" fill="#100d0b" stroke="#ffffff22" filter="url(#shadow)"/>
+<rect x="48" y="42" width="1104" height="62" rx="28" fill="#ffffff0b"/>
+<circle cx="84" cy="73" r="8" fill="#ff6b62"/><circle cx="112" cy="73" r="8" fill="#ffc95c"/><circle cx="140" cy="73" r="8" fill="#62d389"/>
+<rect x="236" y="59" width="650" height="29" rx="14" fill="#ffffff0c"/><text x="561" y="79" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff88">maison-nour.ma/reservation</text>
+
+<text x="92" y="154" font-family="Arial" font-size="22" font-weight="800" fill="#efc586">RÉSERVATION</text>
+<text x="92" y="207" font-family="Georgia" font-size="46" font-weight="700" fill="white">Votre table vous attend</text>
+<rect x="92" y="245" width="610" height="370" rx="24" fill="#1b1512" stroke="#ffffff18"/>
+<g font-family="Arial"><text x="126" y="290" font-size="13" fill="#a99789">Nom complet</text><rect x="126" y="306" width="250" height="50" rx="12" fill="#100d0b" stroke="#ffffff20"/><text x="145" y="337" font-size="14" fill="#fff">Ismail Jaroui</text><text x="405" y="290" font-size="13" fill="#a99789">Téléphone</text><rect x="405" y="306" width="250" height="50" rx="12" fill="#100d0b" stroke="#ffffff20"/><text x="424" y="337" font-size="14" fill="#fff">06 00 00 00 00</text>
+<text x="126" y="391" font-size="13" fill="#a99789">Date</text><rect x="126" y="407" width="160" height="50" rx="12" fill="#100d0b" stroke="#ffffff20"/><text x="145" y="438" font-size="14" fill="#fff">15/08/2026</text><text x="310" y="391" font-size="13" fill="#a99789">Heure</text><rect x="310" y="407" width="160" height="50" rx="12" fill="#100d0b" stroke="#ffffff20"/><text x="329" y="438" font-size="14" fill="#fff">20:30</text><text x="494" y="391" font-size="13" fill="#a99789">Personnes</text><rect x="494" y="407" width="161" height="50" rx="12" fill="#100d0b" stroke="#ffffff20"/><text x="513" y="438" font-size="14" fill="#fff">4 personnes</text>
+<rect x="126" y="505" width="529" height="58" rx="14" fill="#d08a3c"/><text x="390" y="541" text-anchor="middle" font-size="15" font-weight="800" fill="white">CONFIRMER LA RÉSERVATION</text></g>
+<rect x="748" y="245" width="320" height="370" rx="24" fill="#241a15"/><text x="790" y="302" font-family="Georgia" font-size="28" font-weight="700" fill="white">Maison Nour</text><text x="790" y="343" font-family="Arial" font-size="15" fill="#a99789">Ouvert du mardi au dimanche</text><text x="790" y="377" font-family="Arial" font-size="15" fill="#a99789">12:00 – 15:00</text><text x="790" y="407" font-family="Arial" font-size="15" fill="#a99789">19:00 – 23:30</text><line x1="790" y1="442" x2="1025" y2="442" stroke="#ffffff1f"/><text x="790" y="485" font-family="Arial" font-size="14" fill="#efc586">✓ Confirmation instantanée</text><text x="790" y="520" font-family="Arial" font-size="14" fill="#efc586">✓ Adapté au mobile</text><text x="790" y="555" font-family="Arial" font-size="14" fill="#efc586">✓ Gestion simple</text>
+</svg>

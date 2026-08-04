@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<defs>
+ <linearGradient id="pagebg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b110d"/><stop offset="1" stop-color="#100d0b"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d89645"/><stop offset="1" stop-color="#36d1dc"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1200" height="750" fill="url(#pagebg)"/>
+<circle cx="1060" cy="110" r="230" fill="#d89645" opacity=".11"/>
+<rect x="48" y="42" width="1104" height="666" rx="28" fill="#100d0b" stroke="#ffffff22" filter="url(#shadow)"/>
+<rect x="48" y="42" width="1104" height="62" rx="28" fill="#ffffff0b"/>
+<circle cx="84" cy="73" r="8" fill="#ff6b62"/><circle cx="112" cy="73" r="8" fill="#ffc95c"/><circle cx="140" cy="73" r="8" fill="#62d389"/>
+<rect x="236" y="59" width="650" height="29" rx="14" fill="#ffffff0c"/><text x="561" y="79" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff88">maison-nour.ma/galerie</text>
+
+<text x="92" y="154" font-family="Arial" font-size="22" font-weight="800" fill="#efc586">GALERIE &amp; AVIS</text><text x="92" y="205" font-family="Georgia" font-size="46" font-weight="700" fill="white">L’ambiance Maison Nour</text>
+<rect x="92" y="245" width="420" height="360" rx="25" fill="#3b2419"/><circle cx="300" cy="405" r="125" fill="#d7a46c"/><circle cx="300" cy="405" r="91" fill="#f0e1cb"/><circle cx="265" cy="380" r="25" fill="#7a5031"/><circle cx="335" cy="430" r="29" fill="#5c7d3d"/>
+<rect x="535" y="245" width="533" height="167" rx="22" fill="#1e1713" stroke="#ffffff18"/><text x="574" y="290" font-family="Arial" font-size="34" fill="#e5a451">★★★★★</text><text x="574" y="337" font-family="Georgia" font-size="20" fill="white">“Un accueil chaleureux et une cuisine remarquable.”</text><text x="574" y="375" font-family="Arial" font-size="13" fill="#a99789">— Sara, cliente</text>
+<rect x="535" y="438" width="250" height="167" rx="22" fill="#2b1d17"/><path d="M610 555c35-72 92-79 110 0" fill="#d08a3c"/><circle cx="665" cy="498" r="37" fill="#ecc7a5"/><text x="562" y="582" font-family="Arial" font-size="13" fill="#d8c8bd">Chef &amp; équipe</text>
+<rect x="818" y="438" width="250" height="167" rx="22" fill="#241913"/><rect x="854" y="474" width="178" height="80" rx="14" fill="#37231a"/><circle cx="886" cy="514" r="18" fill="#d08a3c"/><circle cx="946" cy="514" r="18" fill="#5c7d3d"/><text x="846" y="582" font-family="Arial" font-size="13" fill="#d8c8bd">Salle élégante</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<defs>
+ <linearGradient id="pagebg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10172b"/><stop offset="1" stop-color="#0d1322"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c5cff"/><stop offset="1" stop-color="#36d1dc"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-opacity=".28"/></filter>
+</defs>
+<rect width="1200" height="750" fill="url(#pagebg)"/>
+<circle cx="1060" cy="110" r="230" fill="#7c5cff" opacity=".11"/>
+<rect x="48" y="42" width="1104" height="666" rx="28" fill="#0d1322" stroke="#ffffff22" filter="url(#shadow)"/>
+<rect x="48" y="42" width="1104" height="62" rx="28" fill="#ffffff0b"/>
+<circle cx="84" cy="73" r="8" fill="#ff6b62"/><circle cx="112" cy="73" r="8" fill="#ffc95c"/><circle cx="140" cy="73" r="8" fill="#62d389"/>
+<rect x="236" y="59" width="650" height="29" rx="14" fill="#ffffff0c"/><text x="561" y="79" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff88">techstore.ma/dashboard</text>
+
+<rect x="78" y="126" width="220" height="538" rx="20" fill="#151d31"/><text x="112" y="179" font-family="Arial" font-size="24" font-weight="900" fill="white">TECH<tspan fill="#7c5cff">STORE</tspan></text><g font-family="Arial" font-size="15" fill="#8996ad"><text x="112" y="246">Vue d’ensemble</text><text x="112" y="296">Produits</text><text x="112" y="346">Catégories</text><text x="112" y="396">Commandes</text><text x="112" y="446">Messages</text></g>
+<text x="342" y="166" font-family="Arial" font-size="31" font-weight="900" fill="white">Dashboard e-commerce</text><text x="342" y="196" font-family="Arial" font-size="14" fill="#8996ad">Ventes, stock et commandes en temps réel</text>
+<g font-family="Arial"><rect x="342" y="230" width="195" height="120" rx="20" fill="#151d31"/><text x="370" y="270" font-size="13" fill="#8996ad">Chiffre d’affaires</text><text x="370" y="320" font-size="31" font-weight="900" fill="#31d3da">48 750 DH</text><rect x="558" y="230" width="195" height="120" rx="20" fill="#151d31"/><text x="586" y="270" font-size="13" fill="#8996ad">Commandes</text><text x="586" y="320" font-size="38" font-weight="900" fill="#7c5cff">38</text><rect x="774" y="230" width="195" height="120" rx="20" fill="#151d31"/><text x="802" y="270" font-size="13" fill="#8996ad">Produits actifs</text><text x="802" y="320" font-size="38" font-weight="900" fill="white">24</text>
+<rect x="342" y="380" width="627" height="250" rx="22" fill="#151d31"/><text x="372" y="420" font-size="16" font-weight="800" fill="white">Ventes des 7 derniers jours</text><rect x="395" y="535" width="44" height="55" rx="9" fill="#473d82"/><rect x="470" y="495" width="44" height="95" rx="9" fill="#5a49ac"/><rect x="545" y="455" width="44" height="135" rx="9" fill="#7c5cff"/><rect x="620" y="510" width="44" height="80" rx="9" fill="#5949aa"/><rect x="695" y="430" width="44" height="160" rx="9" fill="#31d3da"/><rect x="770" y="468" width="44" height="122" rx="9" fill="#6f5ae0"/><rect x="845" y="405" width="44" height="185" rx="9" fill="#7c5cff"/></g>
+</svg>
